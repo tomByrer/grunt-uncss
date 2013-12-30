@@ -16,7 +16,6 @@ module.exports = function (grunt) {
 
         var done = this.async();
         var options = this.options({
-            compress: false,
             ignore: ['']
         });
 
